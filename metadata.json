@@ -1,0 +1,6 @@
+{
+  "name": "KasirPro POS - Sistem Kasir & Manajemen Toko Lengkap",
+  "description": "Aplikasi Point of Sale (POS) modern & lengkap dengan kasir retail & resto, inventaris stok, manajemen shift & laci kas, cetak struk thermal, QRIS & multi-pembayaran, pelanggan loyalitas, serta analitik penjualan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
